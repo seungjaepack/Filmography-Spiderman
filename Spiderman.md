@@ -6,4 +6,7 @@ This file show the histor of Spiderman Movie each actor.
 - Year: 2012 
 - Name: Peter Benjamin Parker 
 
+# Amazing Spider-Man 2 
+- Year: 2014 
+- Name: Peter Benjamin Parker 
 
