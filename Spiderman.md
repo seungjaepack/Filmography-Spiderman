@@ -6,6 +6,3 @@ This file show the histor of Spiderman Movie each actor.
 -Year:2002
 -Name:PeterBenjaminParker
 
-#Spider-Man2
--Year:2004
--Name:PeterBenjaminParker
