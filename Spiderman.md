@@ -22,3 +22,8 @@ This file shows the history of Spiderman movie each actor in chronological order
 -Year:2019 
 -Name:PeterBenjaminParker 
 
+#Venom 
+-Year:2018 
+-Name:EddieBrock 
+
+
