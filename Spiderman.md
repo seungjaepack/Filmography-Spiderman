@@ -2,8 +2,12 @@
 
 This file shows the history of Spiderman movie each actor in chronological orderwhich includes rebooted movie.
 
-# Amazing Spider-Man 2 
-- Year: 2014 
-- Name: Peter Benjamin Parker 
+#Captain America : Civil War
+-Year:2016
+-Name:PeterBenjaminParker
+
+# Spider-Man:Home Coming 
+-Year:2017
+-Name:PeterBenjaminParker 
 
 
