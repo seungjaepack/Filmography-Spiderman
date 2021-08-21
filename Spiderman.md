@@ -1,3 +1,3 @@
 # History of Spiderman Movie
 
-This file show the histor of Spiderman Movie each actor.
+This file shows the history of Spiderman movie each actor in chronological orderwhich includes rebooted movie.
