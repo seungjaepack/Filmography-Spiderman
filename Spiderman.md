@@ -47,3 +47,8 @@ TomHolland's Filmography
 -Year:2019 
 -Name:PeterBenjaminParker 
 
+#Venom 
+-Year:2018 
+-Name:EddieBrock 
+
+
